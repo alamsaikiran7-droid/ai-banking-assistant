@@ -1,7 +1,6 @@
-# 🏦 AI Banking Assistant
+# AI Banking Assistant
 
 This is a Streamlit-based AI Banking Assistant project.
-
 It helps users ask questions about:
 - Customers
 - Loans
@@ -15,7 +14,7 @@ The app uses:
 
 ---
 
-## 🚀 How to run the project
+## How to run the project
 
 1. Install dependencies:
 ```bash
